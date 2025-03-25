@@ -1,0 +1,27 @@
+{
+  "name": "nplpdle",
+  "version": "1.0.0",
+  "description": "Can you blow my whsitle baby, whsilte bby here woe go  Tututuuotuolu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noxeal/nplpdle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noxeal/nplpdle/issues"
+  },
+  "homepage": "https://github.com/Noxeal/nplpdle#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "http": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
